@@ -20,8 +20,6 @@ A consultancy platform for evaluating industrial requirements and recommending s
 
 [Repository](https://github.com/shreya18055/unified-namespace)
 
----
-
 ### RISC Processor
 
 A simplified RISC processor designed from scratch using Verilog HDL, including the datapath, ALU, register file, program counter, control unit, and custom instruction set.
@@ -30,8 +28,6 @@ A simplified RISC processor designed from scratch using Verilog HDL, including t
 
 [Repository](https://github.com/shreya18055/riscv-verilog-processor)
 
----
-
 ### Vehicle Telemetry System
 
 A real-time vehicle telemetry system combining an RTOS-based C scheduler with a Python dashboard for GPS tracking, fuel monitoring, and diagnostics.
@@ -39,8 +35,6 @@ A real-time vehicle telemetry system combining an RTOS-based C scheduler with a 
 **C · RTOS · Python · Tkinter · IoT**
 
 [Repository](https://github.com/shreya18055/Vehicle-Telemetry-system)
-
----
 
 ### AI Concert Management
 
@@ -65,25 +59,45 @@ An artificial intelligence project implementing classical search and optimizatio
 
 ## Technologies
 
-**Languages**
+### Languages
 
-Python · C · C++ · Java · Go · JavaScript · Verilog · Assembly
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30" height="30" alt="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+</p>
 
-**Software & Web**
+`Python` · `C` · `C++` · `Java` · `Go` · `JavaScript` · `Verilog` · `Assembly`
 
-React · Node.js · MERN · SQL · MongoDB · Linux · Git
+### Software & Web
 
-**Embedded & IoT**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL"/>
+</p>
 
-FreeRTOS · ESP32 · ESP-IDF · Arduino · Raspberry Pi · Node-RED · AWS IoT
+`React` · `Node.js` · `MERN` · `SQL` · `MongoDB` · `Linux` · `Git`
 
-**Communication**
+### Embedded & IoT
 
-MQTT · I2C · UART · SPI
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" height="30" alt="Arduino"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30" alt="Raspberry Pi"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="30" height="30" alt="Embedded C"/>
+</p>
 
-**Computer Science**
+`FreeRTOS` · `ESP32` · `ESP-IDF` · `Arduino` · `Raspberry Pi` · `Node-RED` · `AWS IoT`
 
-Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOP · Distributed Systems · Machine Learning · Artificial Intelligence
+### Communication
+
+`MQTT` · `I2C` · `UART` · `SPI`
 
 ---
 
@@ -93,6 +107,21 @@ Software Engineering · Intelligent Systems · Distributed Systems · System Des
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya18055&hide_border=true&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&area_color=f6f8fa" width="95%"/>
+</p>
+
+---
+
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/shreya-nandagopal) · [Email](mailto:shreyanandagopal@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/shreya-nandagopal">
+<img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shreyanandagopal@gmail.com">
+<img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+</p>
