@@ -126,14 +126,6 @@ Software Engineering · Intelligent Systems · Distributed Systems · System Des
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya18055&hide_border=true&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&area_color=f6f8fa" width="95%"/>
-</p>
-
----
-
 ## Connect
 
 <p>
