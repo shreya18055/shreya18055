@@ -20,6 +20,8 @@ A consultancy platform for evaluating industrial requirements and recommending s
 
 [Repository](https://github.com/shreya18055/unified-namespace)
 
+---
+
 ### RISC Processor
 
 A simplified RISC processor designed from scratch using Verilog HDL, including the datapath, ALU, register file, program counter, control unit, and custom instruction set.
@@ -27,6 +29,8 @@ A simplified RISC processor designed from scratch using Verilog HDL, including t
 **Verilog · Digital Design · Computer Architecture · ModelSim · GTKWave**
 
 [Repository](https://github.com/shreya18055/riscv-verilog-processor)
+
+---
 
 ### Vehicle Telemetry System
 
@@ -36,6 +40,8 @@ A real-time vehicle telemetry system combining an RTOS-based C scheduler with a 
 
 [Repository](https://github.com/shreya18055/Vehicle-Telemetry-system)
 
+---
+
 ### AI Concert Management
 
 An artificial intelligence project implementing classical search and optimization techniques including BFS, DFS, A*, Hill Climbing, Beam Search, Branch and Bound, and AO*.
@@ -43,6 +49,18 @@ An artificial intelligence project implementing classical search and optimizatio
 **C++ · Artificial Intelligence · Search Algorithms**
 
 [Repository](https://github.com/shreya18055/AI-concert-management)
+
+---
+
+### Rust KVM
+
+A lightweight, network-based software KVM built in Rust that enables seamless keyboard and mouse control between two computers over a local network.
+
+The system captures input on a macOS host and streams compact binary events over UDP to a Windows client, with edge-triggered switching between machines.
+
+**Rust · Tokio · UDP · rdev · enigo · Serde · Bincode**
+
+[Repository](https://github.com/shreya18055/rust-kvm)
 
 ---
 
@@ -68,9 +86,10 @@ An artificial intelligence project implementing classical search and optimizatio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30" height="30" alt="Go"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30" height="30" alt="Rust"/>
 </p>
 
-`Python` · `C` · `C++` · `Java` · `Go` · `JavaScript` · `Verilog` · `Assembly`
+`Python` · `C` · `C++` · `Java` · `Go` · `JavaScript` · `Rust` · `Verilog` · `Assembly`
 
 ### Software & Web
 
@@ -103,7 +122,15 @@ An artificial intelligence project implementing classical search and optimizatio
 
 ## Currently Exploring
 
-Software Engineering · Intelligent Systems · Distributed Systems · System Design · Advanced IoT Architectures · Computer Architecture
+Software Engineering · Intelligent Systems · Distributed Systems · System Design · Advanced IoT Architectures · Computer Architecture · Systems Programming
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya18055&hide_border=true&bg_color=ffffff&color=24292f&line=6e7781&point=24292f&area=true&area_color=f6f8fa" width="95%"/>
+</p>
 
 ---
 
